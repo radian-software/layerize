@@ -1,4 +1,3 @@
-; Copyright © 2015-2016 Radon Rosborough. All rights reserved.
 (ns layerize.core
   (:require [layerize.equation :as eq]
             [layerize.schematic :as schematic]

@@ -1,4 +1,3 @@
-; Copyright © 2015-2016 Radon Rosborough. All rights reserved.
 (ns layerize.bezier
   (:require [clojure.string :as string]
             [layerize.svg :refer [point->str]]

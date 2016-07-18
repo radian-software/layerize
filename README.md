@@ -1,5 +1,3 @@
-Copyright © 2015-2016 Radon Rosborough. All rights reserved.
-
 # General info
 
 In the fall of my senior year in high school, I took a class called Design Technology 2. For my final project, I constructed a three-dimensional model of a certain irregular solid out of cross-sections, using the laser cutter. It would have been impossible to design the schematics by hand, so I wrote this library to generate them for me. You can see a making-of video at my website [here][other projects].
