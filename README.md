@@ -20,7 +20,7 @@ This is relatively old code. Also, it was written pretty quickly, in a shorter a
 - To generate the schematics, I think you have to call `core/pieces` and pass the result to `svg/pieces->svg`.
 - The pieces are not arranged neatly on the canvas as in MazeGen. You will have to arrange them manually.
 - This project requires significant improvements to the grooving algorithm in `schematic`. Without them, it generates a number of the pieces so that they intersect with other pieces. I had to manually adjust and recut quite a few pieces.
-- The solid can be viewed in Grapher using the file `Grapher/MobiusCustom.gcx`.
+- The solid can be viewed in Grapher using the file `MobiusSolid.gcx`.
 
 [other projects]: https://intuitiveexplanations.com/other-projects/
 [mazegen]: https://github.com/raxod502/mazegen
