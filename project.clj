@@ -1,6 +1,6 @@
 (defproject layerize "0.1.0-SNAPSHOT"
   :description "Generates laser-cutter schematics for a certain 3D solid."
-  :url "https://github.com/raxod502/layerize"
+  :url "https://github.com/radian-software/layerize"
 
   :license {:name "MIT License"
             :url "http://www.opensource.org/licenses/mit-license.php"}

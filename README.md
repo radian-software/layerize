@@ -38,8 +38,8 @@ doesn't have nice, easy-to-use endpoints. Also, there are a number of
 problems that I handled by adjusting the output manually. Unlike
 MazeGen, it is probably not suitable for use by anyone other than me.
 However, if you are interested in this project, please feel free to
-contact me at [radon.rosborough@gmail.com][email] and I would be happy
-to answer any questions you might have.
+contact me at [contact+layerize@radian.codes][email] and I would be
+happy to answer any questions you might have.
 
 ## Miscellany
 
@@ -53,6 +53,6 @@ to answer any questions you might have.
   adjust and recut quite a few pieces.
 - The solid can be viewed in Grapher using the file `MobiusSolid.gcx`.
 
-[email]: mailto:radon.rosborough@gmail.com
-[mazegen]: https://github.com/raxod502/mazegen
+[email]: mailto:contact+layerize@radian.codes
+[mazegen]: https://github.com/radian-software/MazeGen
 [other projects]: https://intuitiveexplanations.com/other-projects/
